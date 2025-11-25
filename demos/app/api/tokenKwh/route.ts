@@ -1,4 +1,4 @@
-import { generatePrettyToken } from "@/app/lib/tokenHandle";
+import { generatePrettyToken } from "@/lib/tokenHandle";
 import { NextResponse } from "next/server";
 
 // =====================================================
